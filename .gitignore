@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.memory/personal/
+.privacy-patterns
+data/*
+!data/.gitkeep
+references/private/
+incoming-creatives/
+generated-media/
+**/__pycache__/
+.pytest_cache/
+.venv/
+*.log

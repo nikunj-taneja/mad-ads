@@ -1,0 +1,6 @@
+# One case-insensitive regular expression per line.
+# Copy this file to .privacy-patterns and add client-specific identifiers.
+your legal company name
+yourbrand\.com
+founder full name
+client name

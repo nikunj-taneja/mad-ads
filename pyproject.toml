@@ -1,0 +1,13 @@
+[project]
+name = "mad-ads"
+version = "0.1.0"
+description = "A brand-neutral, agent-operated marketing workspace for D2C teams"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
+[project.urls]
+Repository = "https://github.com/your-org/mad-ads"
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "tools/tests"]
