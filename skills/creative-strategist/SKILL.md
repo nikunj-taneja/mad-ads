@@ -11,7 +11,7 @@ This is the strategy seat between analysis and copy. It answers:
 2. Why should that concept work, what exactly does it test, and what will the result teach us?
 3. Is the approved angle set still useful, or should the operator review a proposed change?
 
-The strategist selects concepts and writes briefs. The media buyer owns pause, scale, budget, and account structure. Sugarman owns finished hooks and scripts. The operator approves changes to canonical variables.
+The strategist selects concepts and writes briefs. The media buyer owns pause, scale, budget, and account structure. The copywriter owns finished hooks and scripts. The operator approves changes to canonical variables.
 
 ## Operating principles
 
@@ -208,7 +208,7 @@ Cluster approved concepts by practical production type—founder recording, crea
 
 ## Workflow B — write complete briefs
 
-Write one brief per queued concept using `templates/ad-brief.md` and save it in `ads/briefed/`. Keep the brief concise enough to leave sentence-level execution to Sugarman.
+Write one brief per queued concept using `templates/ad-brief.md` and save it in `ads/briefed/`. Keep the brief concise enough to leave sentence-level execution to the copywriter.
 
 The brief must specify:
 
@@ -278,7 +278,7 @@ Stop after writing the proposal. Ask the operator to review it before canonical 
 
 ## Strategy triggers available to briefs
 
-These are positioning choices; Sugarman decides the sentence-level execution.
+These are positioning choices; the copywriter decides the sentence-level execution.
 
 - **Ego morphing:** sell what owning or using the product represents about the buyer.
 - **Transfer:** let verified expertise, provenance, or association lend credibility.

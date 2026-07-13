@@ -1,9 +1,9 @@
 ---
-name: sugarman
+name: copywriter
 description: End-to-end direct-response copywriting using Schwartz market diagnosis, Sugarman sentence mechanics, Life-Force 8 desire mapping, and format-specific production contracts.
 ---
 
-# Sugarman: direct-response copy operating system
+# Copywriter: direct-response copy operating system
 
 This skill turns an approved brief into finished copy. It also handles hooks, headlines, VSLs, advertorials, landing pages, and email when no formal brief exists.
 

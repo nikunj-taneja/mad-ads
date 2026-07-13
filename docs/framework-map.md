@@ -12,9 +12,9 @@ Primary published influences are Eugene M. Schwartz's *Breakthrough Advertising*
 
 `skills/creative-strategist/SKILL.md` contains winner-invariant diagnosis, qualitative signal interpretation, multi-axis coverage, Schwartz awareness, claim-territory sophistication, LF8 and means-end chains, iterate/test/refresh routing, confidence-adjusted production investment, optional reference grounding, complete brief hypotheses, and evidence-backed angle proposals.
 
-## Sugarman
+## Copywriter
 
-`skills/sugarman/SKILL.md` contains:
+`skills/copywriter/SKILL.md` contains:
 
 - Schwartz A1-A5 awareness and S1-S5 sophistication pre-flight;
 - LF8 desire selection and attribute-to-payoff means-end chains;

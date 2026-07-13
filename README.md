@@ -59,7 +59,7 @@ analysis/<date>-analysis.md       persona proposal
                            |
                     ads/briefed/*.md
                            |
-                        sugarman
+                       copywriter
                            |
                     ads/scripted/*.md
                            |
@@ -98,7 +98,7 @@ Included skills:
 - `media-buyer`: analyze paid-social exports and issue evidence-based verdicts;
 - `customer-research`: structure reviews, calls, and support messages into persona proposals;
 - `creative-strategist`: turn evidence and coverage gaps into ranked briefs;
-- `sugarman`: write direct-response copy through Schwartz awareness and sophistication, LF8 desire mapping, Sugarman sentence mechanics, proof, hooks, and format-specific contracts;
+- `copywriter`: write direct-response copy through Schwartz awareness and sophistication, LF8 desire mapping, Sugarman sentence mechanics, proof, hooks, and format-specific contracts;
 - `static-producer`: turn an approved static brief or copy block into an image-generation handoff;
 - `video-producer`: turn an approved video script into clip-by-clip generation and editing instructions.
 
@@ -112,9 +112,9 @@ The system translates several established direct-response frameworks into agent-
 
 | Source | Used in | What it contributes |
 |---|---|---|
-| Eugene M. Schwartz, *Breakthrough Advertising* | `creative-strategist`, `sugarman`, `static-producer` | Awareness stages, market sophistication, mass desire, headline verbalization, belief building, mechanism, identification, and copy intensification |
-| Joseph Sugarman, *The Adweek Copywriting Handbook* | `sugarman`, with downstream use in `static-producer` | Slippery-slide sentence mechanics, fifteen operating axioms, psychological triggers, curiosity, specificity, objection handling, satisfaction conviction, editing, and direct-response doctrine |
-| Drew Eric Whitman, *Cashvertising* | `creative-strategist`, `sugarman` | Life-Force 8 desire mapping, means-end chains, Mental Movie, Four Walls, fear-appeal sequencing, inoculation, and learned-want laddering |
+| Eugene M. Schwartz, *Breakthrough Advertising* | `creative-strategist`, `copywriter`, `static-producer` | Awareness stages, market sophistication, mass desire, headline verbalization, belief building, mechanism, identification, and copy intensification |
+| Joseph Sugarman, *The Adweek Copywriting Handbook* | `copywriter`, with downstream use in `static-producer` | Slippery-slide sentence mechanics, fifteen operating axioms, psychological triggers, curiosity, specificity, objection handling, satisfaction conviction, editing, and direct-response doctrine |
+| Drew Eric Whitman, *Cashvertising* | `creative-strategist`, `copywriter` | Life-Force 8 desire mapping, means-end chains, Mental Movie, Four Walls, fear-appeal sequencing, inoculation, and learned-want laddering |
 
 The media-buyer, customer-research, static-production, and video-production skills also contain original operating methods developed from practical campaign analysis, research discipline, platform constraints, and model-prompting workflows. MCSLA-style structured video prompting is an internal production grammar, not a book attribution.
 

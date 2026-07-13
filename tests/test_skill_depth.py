@@ -10,8 +10,8 @@ class SkillDepthTests(unittest.TestCase):
         for term in terms:
             self.assertIn(term.lower(), text, f"{relative} lost required framework: {term}")
 
-    def test_sugarman_framework_contract(self):
-        self.assert_contains("skills/sugarman/SKILL.md", [
+    def test_copywriter_framework_contract(self):
+        self.assert_contains("skills/copywriter/SKILL.md", [
             "Schwartz strategic pre-flight", "Life-Force 8", "fifteen", "slippery slide",
             "38", "Intensification", "Gradualization", "Mechanization", "Camouflage",
             "Mental movie", "Four-walls", "31", "spoken register", "Triad rhythm",

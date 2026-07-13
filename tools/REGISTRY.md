@@ -3,7 +3,7 @@
 | Tool | Purpose | Typical caller | Status |
 |---|---|---|---|
 | `parse-meta-csv/parse.py` | Inspect a Meta CSV and report usable column mappings | media-buyer | working starter |
-| `check-script-length/check.py` | Estimate spoken duration from a Markdown script | sugarman | working starter |
+| `check-script-length/check.py` | Estimate spoken duration from a Markdown script | copywriter | working starter |
 | `privacy-scan.py` | Scan tracked-style text for secrets and operator-defined identifiers | maintainer | working starter |
 | `doctor.py` | Report missing core inputs and optional integrations | onboarding agent/operator | working starter |
 | `meta-ads-auditor/audit.py` | Validate Meta access and optionally list campaigns | operator/agent | working starter, live unverified |
