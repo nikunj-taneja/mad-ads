@@ -2,7 +2,7 @@
 
 An open, fill-in-the-blanks marketing operating system for D2C founders and agencies working with coding agents.
 
-Mad Ads gives Claude Code and Codex a shared workspace for performance analysis, customer research, creative strategy, ad copy, and AI production prompts. It is designed for operators already comfortable with tools such as Claude, Codex, Higgsfield, spreadsheets, and Meta Ads Manager who want repeatable marketing work instead of disconnected chat threads.
+Mad Ads gives Claude Code and Codex a shared workspace for performance analysis, customer research, creative strategy, and ad copy. It is designed for technical D2C operators who want repeatable marketing work instead of disconnected chat threads, while keeping creative production in human hands.
 
 The repository starts intentionally empty of brand and customer information. Your agent will tell you which file to complete, what export to add, or which decision needs human approval.
 
@@ -42,7 +42,7 @@ Start by filling:
 4. `templates/brand-voice.md`
 5. `variables/kpis.md`
 
-Detailed credential and integration setup lives in `docs/setup.md`. Credentials are unnecessary for onboarding, file-based analysis, briefing, copy, or prompt sheets.
+Detailed credential and integration setup lives in `docs/setup.md`. Credentials are unnecessary for onboarding, file-based analysis, briefing, or copy.
 
 For performance analysis, place a Meta CSV export in `data/` and invoke the `media-buyer` skill. The export remains untracked. Run `python tools/doctor.py` at any time to see what is ready, missing, or optional.
 
@@ -63,11 +63,7 @@ analysis/<date>-analysis.md       persona proposal
                            |
                     ads/scripted/*.md
                            |
-             static-producer or video-producer
-                           |
-                     prompts/*.md
-                           |
-                   human review + launch
+          human design, filming, editing + launch
 ```
 
 Each stage writes a file. This makes work inspectable, resumable, and portable between agent harnesses.
@@ -83,7 +79,6 @@ Each stage writes a file. This makes work inspectable, resumable, and portable b
 | `analysis/` | Performance analysis contracts |
 | `creative-strategy/` | Ranked concept queues and proposals |
 | `ads/` | Brief and script lifecycle |
-| `prompts/` | AI production prompt sheets |
 | `tools/` | Reusable deterministic utilities |
 | `.memory/` | Project rules and durable decisions |
 
@@ -99,8 +94,8 @@ Included skills:
 - `customer-research`: structure reviews, calls, and support messages into persona proposals;
 - `creative-strategist`: turn evidence and coverage gaps into ranked briefs;
 - `copywriter`: write direct-response copy through Schwartz awareness and sophistication, LF8 desire mapping, Sugarman sentence mechanics, proof, hooks, and format-specific contracts;
-- `static-producer`: turn an approved static brief or copy block into an image-generation handoff;
-- `video-producer`: turn an approved video script into clip-by-clip generation and editing instructions.
+
+Production skills are intentionally excluded. The copywriter supplies inline visual direction and asset requirements; human designers, creators, editors, and creative directors decide how the work is produced.
 
 Customer research and external inspiration are optional inputs. The core workflow does not assume you already have a swipe library.
 
@@ -112,11 +107,11 @@ The system translates several established direct-response frameworks into agent-
 
 | Source | Used in | What it contributes |
 |---|---|---|
-| Eugene M. Schwartz, *Breakthrough Advertising* | `creative-strategist`, `copywriter`, `static-producer` | Awareness stages, market sophistication, mass desire, headline verbalization, belief building, mechanism, identification, and copy intensification |
-| Joseph Sugarman, *The Adweek Copywriting Handbook* | `copywriter`, with downstream use in `static-producer` | Slippery-slide sentence mechanics, fifteen operating axioms, psychological triggers, curiosity, specificity, objection handling, satisfaction conviction, editing, and direct-response doctrine |
+| Eugene M. Schwartz, *Breakthrough Advertising* | `creative-strategist`, `copywriter` | Awareness stages, market sophistication, mass desire, headline verbalization, belief building, mechanism, identification, and copy intensification |
+| Joseph Sugarman, *The Adweek Copywriting Handbook* | `copywriter` | Slippery-slide sentence mechanics, fifteen operating axioms, psychological triggers, curiosity, specificity, objection handling, satisfaction conviction, editing, and direct-response doctrine |
 | Drew Eric Whitman, *Cashvertising* | `creative-strategist`, `copywriter` | Life-Force 8 desire mapping, means-end chains, Mental Movie, Four Walls, fear-appeal sequencing, inoculation, and learned-want laddering |
 
-The media-buyer, customer-research, static-production, and video-production skills also contain original operating methods developed from practical campaign analysis, research discipline, platform constraints, and model-prompting workflows. MCSLA-style structured video prompting is an internal production grammar, not a book attribution.
+The media-buyer and customer-research skills also contain original operating methods developed from practical campaign analysis and research discipline.
 
 Mad Ads is an independent implementation and is not affiliated with or endorsed by these authors or publishers. It summarizes and operationalizes ideas; it does not include the books themselves.
 

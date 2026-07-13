@@ -13,7 +13,6 @@ This starter intentionally ships a narrow working tool layer. Agents can port or
 | Hook-rate tracking | Working for documented export columns | A redacted export to verify labels |
 | Verdict contract validation | Working JSON validator | Analysis JSON |
 | Commerce revenue | Not included | Platform and order-status definitions |
-| Higgsfield generation | Prompt handoff only | Current model choice and operator authorization |
 | Dashboard rendering | Not included | Desired report schema and hosting target |
 
 Incomplete is acceptable when visible. A tool must fail loudly, document prerequisites, and avoid external mutations by default.

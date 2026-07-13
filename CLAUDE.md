@@ -42,14 +42,15 @@ Give the exact path and expected columns or format.
 - `analysis/`: media analysis outputs
 - `creative-strategy/`: concept queues and research updates
 - `ads/`: lifecycle folders for briefs and scripts
-- `prompts/`: production prompt sheets
 - `skills/`: reusable agent workflows
 - `tools/`: deterministic utilities
 - `.memory/`: durable project rules and decisions
 
 ## Workflow
 
-`data export -> media-buyer -> analysis -> creative-strategist -> brief -> copywriter -> script -> static-producer/video-producer -> prompt sheet -> human review -> launch`
+`data export -> media-buyer -> analysis -> creative-strategist -> brief -> copywriter -> approved copy and creative direction -> human production -> launch`
+
+Production is human-owned. Agents may prepare briefs, copy, inline visual direction, asset requirements, and review checklists, but this repository does not contain image-generation, video-generation, editing, or production-prompt skills.
 
 Customer research can update persona proposals at any time. An agent must request approval before changing `variables/` because those files affect every downstream task.
 

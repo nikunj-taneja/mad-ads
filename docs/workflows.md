@@ -4,8 +4,8 @@ The default path is deliberately simple. It begins with files the operator can e
 
 ```text
 Meta CSV + brand files -> media-buyer -> analysis -> creative-strategist
-    -> brief -> copywriter -> script -> static-producer or video-producer
-    -> prompt sheet -> human review -> launch
+    -> brief -> copywriter -> approved script and creative direction
+    -> human design / filming / editing -> launch
 ```
 
 Customer research can feed persona proposals into creative strategy at any point. A competitor swipe file is optional, not an onboarding prerequisite.
@@ -46,9 +46,9 @@ python3 tools/check-script-length/check.py ads/scripted/<script>.md
 
 Adjust `--wpm` only when the intended creator's speaking rate is known.
 
-## 5. Production handoff
+## 5. Human production handoff
 
-Use `skills/static-producer/SKILL.md` or `skills/video-producer/SKILL.md` to create model-ready prompt sheets. The repository hands prompts to the operator; it does not call Higgsfield or another generation API. The human reviews claims, likeness rights, product accuracy, and platform suitability before generation or publication.
+The copywriter delivers exact copy, inline visual direction, required proof and legal text, asset requirements, and unresolved production decisions. Human designers, creators, editors, and creative directors own image generation, filming, editing, art direction, likeness rights, product accuracy, and the final production method.
 
 ## 6. Launch and feedback
 
@@ -61,6 +61,6 @@ Any expansion of the uploader must preserve the prerequisites and validation seq
 - Have an ad export? Start with performance analysis.
 - Have customer language but little spend data? Start with customer research.
 - Have approved evidence and need ads? Start with strategy and copy.
-- Have a finished script? Start with production prompting.
+- Have a finished script? Hand it to the human production owner with its cited assets and guardrails.
 
 The system does not require every input lane to exist. Start with the strongest available evidence, preserve its source, and leave unsupported fields for the operator to fill.

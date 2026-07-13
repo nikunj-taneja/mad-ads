@@ -69,7 +69,6 @@ Copy `.env.example` to `.env`. Meta tools load it from the repository root, with
 | `META_INSTAGRAM_ACTOR_ID` | No | Instagram professional-account actor ID connected to the Page, when Instagram identity is used. |
 | `SHOPIFY_STORE_DOMAIN` | No | The store's `*.myshopify.com` hostname, without a scheme or path. |
 | `SHOPIFY_ACCESS_TOKEN` | No | Admin API token from a custom app with only the scopes required by the implemented reader. |
-| `HIGGSFIELD_API_KEY` | No | API credential from the provider when direct generation is implemented. Prompt-sheet generation needs none. |
 
 Blank values are intentional. Do not collect credentials in advance “just in case.” Check `tools/REGISTRY.md` and `docs/tool-status.md` before assuming an integration exists.
 

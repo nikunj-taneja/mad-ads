@@ -323,13 +323,13 @@ Write:
 - CTA;
 - visual direction distilled from the brief;
 - exact proof or legal copy;
-- handoff to `skills/static-producer/SKILL.md`.
+- a complete handoff for the human designer, including visual direction, exact copy, proof, legal text, and required assets.
 
 For native customer-style statics, provide photo situation, aesthetic register, implied story, and overlay copy. Do not fake a real customer's post.
 
 ### Video script
 
-Write three hook candidates, recommend one, then provide a production-ready script with visual direction interleaved at each meaningful beat. Append an end-card specification when the placement uses one. Hand off to `skills/video-producer/SKILL.md`.
+Write three hook candidates, recommend one, then provide a production-ready script with visual direction interleaved at each meaningful beat. Append an end-card specification when the placement uses one. The finished script and asset list go to the human production team.
 
 ### Carousel
 

@@ -34,8 +34,8 @@ Primary published influences are Eugene M. Schwartz's *Breakthrough Advertising*
 
 `skills/customer-research/SKILL.md` contains ingest and mine modes, source-preserving normalization, privacy handling, evidence thresholds, clean/partial/new/contradicted mappings, persona activation specifications, counter-evidence, confidence, and proposal-only variable changes.
 
-## Static and video production
+## Human production boundary
 
-`skills/static-producer/SKILL.md` includes reference analysis, persuasion and sophistication diagnosis, copy ownership, prompt anatomy, safe zones, product fidelity, typography/compositing boundaries, and QA. `skills/video-producer/SKILL.md` includes clip decomposition, Camera/Subject/Look/Action prompts, standard/reference/continue/expand/edit modes, identity consent, continuity ledgers, assembly, audio, captions, and end cards.
+The agent workflow ends with approved copy, visual direction, asset requirements, proof citations, and review criteria. Image generation, filming, editing, design execution, and production prompting are intentionally left to human specialists.
 
 The repository deliberately treats competitor swipe files as optional evidence. None of these frameworks requires a swipe library to begin.
