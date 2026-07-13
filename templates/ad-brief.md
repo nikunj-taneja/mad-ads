@@ -2,18 +2,34 @@
 
 - Working name:
 - Date:
+- Decision type: [ITERATE WINNER / TEST NEW / REFRESH]
+- Confidence: [HIGH / MEDIUM / LOW]
 - Evidence sources:
 - Objective:
 - Product and offer:
 - Persona:
-- Awareness level:
+- Funnel job: [TOF / MOF / BOF]
+- Awareness stage: [1-5 plus one-clause rationale]
+- Claim territory:
+- Market sophistication: [1-5 from `variables/market-sophistication.md`]
 - Angle:
 - Format and placement:
+- Execution shape:
 - Single message:
 - Hook direction:
+- Story arc: [3-5 beats, not finished copy]
+- Desire driver:
+- Means-end chain: [attribute -> benefit -> payoff]
 - Proof available:
 - Objection to resolve:
+- Preserve: [winner iterations only]
+- Change: [winner iterations only]
+- Key visual moments:
 - Call to action:
 - Required assets:
-- Claim guardrails:
-- Success signal:
+- Valid claims:
+- Off-limits claims:
+- Hypothesis:
+- Success signal and read point: [from `variables/kpis.md`]
+- If yes:
+- If no:

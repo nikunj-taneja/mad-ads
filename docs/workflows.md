@@ -4,7 +4,7 @@ The default path is deliberately simple. It begins with files the operator can e
 
 ```text
 Meta CSV + brand files -> media-buyer -> analysis -> creative-strategist
-    -> brief -> copywriter -> script -> static-producer or video-producer
+    -> brief -> sugarman -> script -> static-producer or video-producer
     -> prompt sheet -> human review -> launch
 ```
 
@@ -38,7 +38,7 @@ Put redacted reviews, interview notes, survey responses, or support themes in `d
 
 ## 4. Strategy and copy
 
-Use `skills/creative-strategist/SKILL.md` to turn evidence and coverage gaps into briefs. Approved briefs move through `skills/copywriter/SKILL.md`. Estimate a drafted script's duration with:
+Use `skills/creative-strategist/SKILL.md` to turn evidence and coverage gaps into briefs. Approved briefs move through `skills/sugarman/SKILL.md`. Estimate a drafted script's duration with:
 
 ```sh
 python3 tools/check-script-length/check.py ads/scripted/<script>.md

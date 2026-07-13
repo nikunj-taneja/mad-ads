@@ -49,7 +49,7 @@ Give the exact path and expected columns or format.
 
 ## Workflow
 
-`data export -> media-buyer -> analysis -> creative-strategist -> brief -> copywriter -> script -> static-producer/video-producer -> prompt sheet -> human review -> launch`
+`data export -> media-buyer -> analysis -> creative-strategist -> brief -> sugarman -> script -> static-producer/video-producer -> prompt sheet -> human review -> launch`
 
 Customer research can update persona proposals at any time. An agent must request approval before changing `variables/` because those files affect every downstream task.
 

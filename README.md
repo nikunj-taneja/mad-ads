@@ -59,7 +59,7 @@ analysis/<date>-analysis.md       persona proposal
                            |
                     ads/briefed/*.md
                            |
-                       copywriter
+                        sugarman
                            |
                     ads/scripted/*.md
                            |
@@ -98,11 +98,13 @@ Included skills:
 - `media-buyer`: analyze paid-social exports and issue evidence-based verdicts;
 - `customer-research`: structure reviews, calls, and support messages into persona proposals;
 - `creative-strategist`: turn evidence and coverage gaps into ranked briefs;
-- `copywriter`: turn approved briefs into scripts or static copy;
+- `sugarman`: write direct-response copy through Schwartz awareness and sophistication, LF8 desire mapping, Sugarman sentence mechanics, proof, hooks, and format-specific contracts;
 - `static-producer`: turn an approved static brief or copy block into an image-generation handoff;
 - `video-producer`: turn an approved video script into clip-by-clip generation and editing instructions.
 
 Customer research and external inspiration are optional inputs. The core workflow does not assume you already have a swipe library.
+
+These are full operating skills, not short persona prompts. The strategy and copy layers include the diagnostic frameworks, decision gates, evidence rules, and downstream contracts needed to produce consistent work. See `docs/framework-map.md` for what is implemented where.
 
 ## Privacy and publishing
 
