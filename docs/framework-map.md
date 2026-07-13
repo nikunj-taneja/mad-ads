@@ -2,6 +2,8 @@
 
 Mad Ads keeps a short default workflow without reducing the specialist reasoning inside each stage.
 
+Primary published influences are Eugene M. Schwartz's *Breakthrough Advertising*, Joseph Sugarman's *The Adweek Copywriting Handbook*, and Drew Eric Whitman's *Cashvertising*. The repository operationalizes these ideas in original instructions and contracts rather than reproducing the books.
+
 ## Media buyer
 
 `skills/media-buyer/SKILL.md` contains rolling-window and lifetime analysis, six verdicts, spend-maturity gates, funnel-feeder protection, Hook/Hold/CTR/CVR diagnosis, platform versus blended return, campaign graduation, budget-level constraints, bid-cap utilization, learning-phase safeguards, concentration and audience leakage, exact action contracts, and human approval gates.
