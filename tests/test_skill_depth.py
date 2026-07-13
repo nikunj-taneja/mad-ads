@@ -14,7 +14,8 @@ class SkillDepthTests(unittest.TestCase):
         self.assert_contains("skills/sugarman/SKILL.md", [
             "Schwartz strategic pre-flight", "Life-Force 8", "fifteen", "slippery slide",
             "38", "Intensification", "Gradualization", "Mechanization", "Camouflage",
-            "Mental movie", "Four-walls", "31", "spoken register", "final diagnostic",
+            "Mental movie", "Four-walls", "31", "spoken register", "Triad rhythm",
+            "Contrarian direct-response doctrine", "final diagnostic",
         ])
 
     def test_strategy_framework_contract(self):

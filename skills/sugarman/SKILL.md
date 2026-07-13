@@ -368,6 +368,7 @@ After the draft:
 - Satisfaction conviction: express confidence appropriate to the actual policy; never invent risk reversal.
 - Specificity upgrade: replace vague benefits with sourced numbers, demonstrations, concrete nouns, or qualified physical detail.
 - Linking formula: familiar concept + product = fast understanding. Avoid unlicensed implication or false equivalence.
+- Triad rhythm: sets of three can create satisfying cadence in print and static copy. In spoken copy, keep three items inside a flowing sentence; a freestanding “X. Y. Z.” stack often sounds scripted. See the spoken-register rules.
 - Reversal hook: confess a real limitation, then reveal the reason it matters.
 - Story first, product later: use when the story itself sustains the slide and the reveal is earned.
 - End-of-ad stack: summarize, contextualize price, reinforce conviction, state real urgency, ask directly.
@@ -381,7 +382,24 @@ After the draft:
 - Landing page: one above-fold concept, scannable section heads, involvement language, sequential objection handling, complete close.
 - Email: one primary job per email. Welcome may lead with origin; abandonment handles one objection at a time; post-purchase respects consent and relevance.
 
-## 15. Final diagnostic
+## 15. Contrarian direct-response doctrine
+
+Treat these as testable operating principles, not substitutes for evidence:
+
+1. Long copy can beat short copy when intent, price, and skepticism require a complete argument.
+2. A headline earns attention and the next sentence; it rarely closes the sale alone.
+3. A truthful flaw can build more trust than polished perfection.
+4. Strategic withholding can sustain curiosity; never withhold material terms or necessary truth.
+5. Specific physical facts and demonstrations usually beat adjective-heavy benefits.
+6. Do not retire a working campaign because the team is bored. Let market response and the test design decide.
+7. Stated preference research is directional. Validate consequential creative judgments in market when safe and affordable.
+8. Section headings and visual pacing are attention devices as well as information architecture.
+9. Let the audience complete an implication when the conclusion is honest and clear enough. Over-explanation can weaken involvement.
+10. The close is valuable real estate. Do not trail off after doing the hard work of building belief.
+11. Typography and measure affect comprehension. Treat inherited typeface-performance claims as hypotheses to test, while always protecting readability.
+12. Customer service can increase conversion, retention, proof, and trust; it is part of the commercial experience, not merely overhead.
+
+## 16. Final diagnostic
 
 Before saving, answer:
 
